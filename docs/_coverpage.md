@@ -6,5 +6,5 @@
 
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Study](#accounting-text-cases)
+[Get Study](#chapter-1-the-nature-and-purpose-of-accounting)
 
