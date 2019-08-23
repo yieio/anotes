@@ -4,7 +4,7 @@
 
 ## The Need for Information
 
-![chapter1-1.png](res/res-1.png)
+![illustration1-1.png](res/res-1.png)
 
 > Nonquantitative information
 
@@ -37,7 +37,7 @@
 
  > **The accounting information** specifically prepared to aid managers is called management accounting information. 
 
-![chapter1-2.png](res/res-2.png)
+![illustration1-2.png](res/res-2.png)
 
 This information is used in three management functions:
 
@@ -165,3 +165,111 @@ This information is used in three management functions:
 
 ### Principles Vs. Rules
 
+> A major controversy in accounting is the extent to which accounting standards should be expressed in the form of broad principles versus detailed rules.
+
+> As GAAP and IFRS converge, it is anticipated that GAAP will become more principle based.
+
+
+## Financial Statements
+
+> The end product of the financial accounting process is a set of reports that are called `financial statements`. 
+
+- a statement of financial position, which is generally referred to as a balance sheet
+- an income statement
+- a statement of cash flows
+ 
+> Most reports, in any field, can be classified into one of two categories:
+
+- stock, or status, reports
+ 
+  Reports of stocks are always as of a specified instant in time;   
+  e.g. The balance sheet
+
+- flow reports. 
+
+  reports of flow always cover a specified period of time.  
+  e.g. the income statement and the cash flow statement
+
+
+### The Balance Sheet
+
+![illustration1-3](res/res-3.png)
+
+- `Assets` are valuable resources owned by the entity.
+- `Liabilities` are obligations of the entity to outside non owner parties who have furnished resources. 
+- These parties are generally called `creditors` because they have extended credit to the entity. 
+- Creditors have a `claim` against the assets in the amount shown as the liability.
+- The other source of the funds that an entity uses to acquire its assets is called `Owners’ Equity`.
+
+  1. the amount provided directly by equity investors, which is called `Total Paid-In Capital`.
+  
+  2. the amount retained from profits (or earnings), which is called `Retained Earnings`.
+
+- Equity investors have only a `residual claim`.  If the entity is dissolved, they get whatever is left after the liabilities have been paid, which may be nothing.
+
+- Liabilities therefore are a `stronger claim` against the assets than equity.
+
+#### Dual-Aspect Concept
+
+> The assets that remain after the liabilities are taken into account will be claimed by the equity investors. 
+
+```
+Assets = Liabilities + Owners'Equity
+```
+
+ - any assets not claimed by creditors will be claimed by equity investors and 
+ 
+ - the total amount of claims (liabilities + owners’ equity) cannot exceed what there is to be claimed, it follows that the total amount of assets will always be equal to the total amount of liabilities plus owners’ equity.
+
+ - The fact that total assets must equal, or balance, total liabilities plus owners’ equity is why the statement is called a balance sheet.
+
+ - This equality tells nothing about the entity’s financial condition; it always exists unless the accountant has made a mistake.
+
+ - This equality exists even if liabilities are greater than assets. In this circumstance the Owners'Equity would be a negative amount(是一个负数).
+
+ - The term `net assets` is sometimes used instead of owners’ equity.
+
+
+### The Income Statement
+
+![illustration1-4](res/res-4.png)
+
+The basic income statement equation is
+
+```
+Revenues - Expenses = Net income
+```
+
+The difference between sales and cost of sales is called `gross margin`. Thus,
+
+```
+Gross margin = Sales revenue - Cost of Sales
+```
+
+`Operating expenses` are subtracted from gross margin, leaving `income before taxes`.
+
+### “Package” of Financial Reports
+
+![illustration1-5](res/res-5.png)
+
+
+### Sarbanes-Oxley Act
+
+
+### Income Tax Reporting
+
+
+## Summary
+
+An organization has four types of accounting information: (1) operating information, which has to do with the details of operations; (2) management accounting information, which is used internally for planning, implementation, and control; (3) financial accounting informa- tion, which is used both by management and by external parties; and (4) tax accounting in- formation, which is used to file tax returns with taxing authorities.
+
+Financial accounting is governed by ground rules that in America are referred to as gen- erally accepted accounting principles. The rules attempt to strike a balance between the criterion of relevance on the one hand and the criteria of objectivity and feasibility on the other.
+
+The end products of the financial accounting process are three financial statements: the balance sheet, the income statement, and the cash flow statement. The balance sheet is a report of status or stocks as of a moment of time, whereas the other two statements sum- marize flows over a period of time.
+
+In the United States, calculating taxable income for income tax purposes differs from the process of calculating income for the financial accounting income statement.
+
+The basic accounting equation is
+```
+Assets = Liabilities + Owners’ equity
+```

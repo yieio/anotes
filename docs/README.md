@@ -11,9 +11,11 @@
 5. Accounting Records and Systems 90
 6. Revenue and Monetary Assets 118
 7. Cost of Sales and Inventories 151
-8. Long-Lived Nonmonetary Assets and Their Amortization 182 9. Sources of Capital: Debt 230
+8. Long-Lived Nonmonetary Assets and Their Amortization 182 
+9. Sources of Capital: Debt 230
 10. Sources of Capital: Owners’ Equity 266
-11. Other Items That Affect Net Income and Owners’ Equity 293 12. The Statement of Cash Flows 325
+11. Other Items That Affect Net Income and Owners’ Equity 293 
+12. The Statement of Cash Flows 325
 13. Acquisitions and Consolidated Statements 355
 14. Financial Statement Analysis 379
 15. Understanding Financial Statements 414
