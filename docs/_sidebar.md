@@ -1,8 +1,8 @@
 - 目录
 - [P1-Introduction](readme.md)
 - [P2-The Nature and Purpose of Accounting](chapter1/chapter1.md)
-- [P3-Basic Accounting Concepts: The Balance Sheet](#comming-soon)
-- [P4-Basic Accounting Concepts: The Income Statement](#comming-soon)
+- [P3-The Balance Sheet](chapter2/chapter2.md)
+- [P4-The Income Statement](#comming-soon)
 - [P5-Accounting Records and Systems](#comming-soon)
 - [P6-Revenue and Monetary Assets](#comming-soon)
 - [P7-Cost of Sales and Inventories](#comming-soon)
