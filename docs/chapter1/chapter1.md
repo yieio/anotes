@@ -258,7 +258,6 @@ Gross margin = Sales revenue - Cost of Sales
 
 ### Income Tax Reporting
 
-收入税报表
 
 ## Summary
 
@@ -274,3 +273,4 @@ The basic accounting equation is
 ```
 Assets = Liabilities + Owners’ equity
 ```
+

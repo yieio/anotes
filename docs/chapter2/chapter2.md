@@ -30,3 +30,28 @@
 ### The Entity Concept
 
 > Accounts are kept for entities, as distinguished from the persons who are associated with these entities. An `entity` is any organization or activity for which accounting reports are prepared.
+
+
+### The Going-Concern Concept
+
+> Unless there is good evidence to the contrary, accounting assumes that an entity is a `going concern`—that it will continue to operate for an indefinitely long period in the future. 
+
+> The significance of this assumption can be indicated by contrasting it with a possible alternative, namely, that the entity is about to be `liquidated`.
+
+
+### The Cost Concept
+
+> The economic resources of an entity are called its `assets`.
+
+- nonmonetary assets (e.g. land, buildings, and machinery, and other similar assets whose cash value is not fixed by contract)
+
+- monetary assets (e.g. money and marketable securities and other similar assets whose cash value is fixed by contract)
+
+#### Nonmonetary Assets
+
+> In accounting, all assets are initially recorded at their cost. (For emphasis, this is also referred to as an asset’s historical cost.) In the case of nonmonetary assets, this amount is ordinarily unaffected by subsequent changes in the value of the asset. 
+
+#### Rationale for the Cost Concept
+
+
+
