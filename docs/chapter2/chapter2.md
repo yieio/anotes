@@ -53,5 +53,32 @@
 
 #### Rationale for the Cost Concept
 
+> 是权衡relevance, objectivity, and feasibility 三者之后做的一个折中
+  
+  - 不够 relevance 因为他给出的不是 nonmonetary asset 当前的价值
+  - 相对 objectivity ,是跟每次都评估资产的当前价值这种方法比，因为每次都评估会很困难而且相对会很主观
+  - 更可行 The cost concept leads to a much more feasible system of accounting for nonmonetary assets. 
+  - So adherence to the cost concept when accounting for nonmonetary assets indicates a willingness on the part of the accounting profession to sacrifice some degree of relevance in exchange for greater objectivity and greater feasibility.
+
+    sacrifice sth in exchange for sth 不错的句型
 
 
+
+> The purpose of the `amortization` process is to remove systematically the cost of the asset from the asset accounts and to show it as a cost of operations. 
+
+#### Monetary Assets
+
+> Monetary assets are initially recorded at their cost and, in the case of most monetary assets, subsequently accounted for at their fair value. 
+
+
+#### Rationale for Fair Value
+
+> The use of fair value to account for most monetary assets subsequent to their acquisition satisfies the three basic criteria of `relevance`, `objectivity`, and `feasibility` used to judge the acceptability of an accounting principle. Clearly a monetary asset’s fair value is relevant to readers of accounting reports, and the fair value of many monetary assets can readily be determined objectively and at a low cost.
+
+#### Goodwill
+
+> It follows from the cost concept that if an entity pays nothing for an item it acquires (other than as a donation), this item will usually not appear on the accounting records as an asset. 
+
+> Goodwill appears in the accounts of a company only when the company has purchased another company, when one company buys another company and pays more than the fair value of its net assets.
+
+> representing the value of the name, reputation, clientele, or similar intangible resources of the purchased company.
