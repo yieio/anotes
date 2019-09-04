@@ -270,3 +270,21 @@ Assets = Liabilities + Paid-in capital + Retained earnings
 > A `atio` is simply one number expressed in terms of another. (e.g. current assets of $22,651,072 and current liabilities of $9,119,089, the ratio of its current assets to its current liabilities is $22,651,072 ÷ $9,119,089, or 2.5 to 1.)
 
 > The ratio of current assets to current liabilities is called the `current ratio`.
+
+## Balance Sheet Changes
+
+> At the moment an entity begins, its financial status can be recorded on a balance sheet.
+
+- Original Capital Contribution
+- Bank Loan
+- Purchase of Merchandise
+- Sale of Merchandise
+
+## Concluding Comment
+
+```
+Assets = Liabilities + Owners' equity
+```
+
+> It is important to remember that every accounting transaction can be recorded in terms of its effect on the balance sheet.
+
