@@ -288,3 +288,19 @@ Assets = Liabilities + Owners' equity
 
 > It is important to remember that every accounting transaction can be recorded in terms of its effect on the balance sheet.
 
+
+## Summary
+
+- `Money measurement`.  Accounting records only those facts that can be expressed in monetary terms.
+
+- `Entity`. Accounts are kept for entities as distinguished from the person associated with those entities.
+
+- `Going concern`. Accounting assumes that an entity will continue to exist indefinitely and that it is not about to be liquidated.
+
+- `Cost`. Nonmonetary and monetary assets are ordinarily entered in the accounts at the amount paid to acquire them. This cost, rather than current fair value, is the basis for subsequent accounting for nonmonetary assets. Most monetary assets are accounted for at fair value following their acquisition.
+
+- `Dual aspect`. Every transaction affects at least two items and preserves the fundamental equation:
+
+ ```
+ Assets = Liabilities + Owners'equity.
+ ```
