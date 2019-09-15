@@ -137,11 +137,11 @@ We state the conservatism concept’s two aspects somewhat more formally:
 
   e.g. If a store makes credit sales of $100,000 during a period and if experience indicates that 3 percent of credit sales will eventually become bad debts, the amount of revenue for the period is $97,000, not $100,000.
 
-  ### The Matching Concept
+### The Matching Concept
 
-  > `The Matching Concept`: When a given event affects both revenues and expenses, the effect on each should be recognized in the same accounting period.
+> `The Matching Concept`: When a given event affects both revenues and expenses, the effect on each should be recognized in the same accounting period.
 
-  >  有了收入需要为当期收入匹配当期支出，也有可能先有支出再匹配当期收入
+>  有了收入需要为当期收入匹配当期支出，也有可能先有支出再匹配当期收入
 
-  ## Recognition of Expenses
+## Recognition of Expenses
 
